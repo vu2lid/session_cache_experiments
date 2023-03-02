@@ -1,0 +1,27 @@
+{
+  "name": "session_cache_experiments",
+  "version": "1.0.0",
+  "description": "Session cache with expiration",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vu2lid/session_cache_experiments.git"
+  },
+  "keywords": [
+    "session",
+    "cache"
+  ],
+  "author": "vu2lid",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/vu2lid/session_cache_experiments/issues"
+  },
+  "homepage": "https://github.com/vu2lid/session_cache_experiments#readme",
+  "dependencies": {
+    "node-cache": "^5.1.2"
+  }
+}
